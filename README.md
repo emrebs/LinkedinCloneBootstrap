@@ -1,0 +1,1 @@
+patika.dev den aldigim Bootstrap egitim ödevidir.
